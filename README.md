@@ -237,3 +237,6 @@ This repository serves as the official landing page for Maxthon. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Maxthon today!**
+
+---
+**Last updated:** 2026-09-10 08:34:27 UTC

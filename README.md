@@ -239,4 +239,4 @@ This repository serves as the official landing page for Maxthon. The software is
 **Get the most recent version of Maxthon today!**
 
 ---
-**Last updated:** 2026-10-27 17:13:33 UTC
+**Last updated:** 2026-10-27 21:41:47 UTC
